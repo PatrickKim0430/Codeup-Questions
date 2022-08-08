@@ -1,6 +1,6 @@
 # Programmer:  Patrick Junhee Kim 
-# Date: 2022/7/27
-# Problem: Codeup no. 1353
+# Date: 2022/8/8
+# Problem: Codeup no,1353, Output triangle # 1
 https://codeup.kr/problem.php?id=1353
 # Solution: Using for loop to solve this problem
 
