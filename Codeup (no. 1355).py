@@ -1,8 +1,8 @@
 # Programmer:  Patrick Junhee Kim 
-# Date: 2022/7/28
-# Problem: Codeup no,1355 
+# Date: 2022/8/9
+# Problem: Codeup no,1355, Output triangle #3
 https://codeup.kr/problem.php?id=1355
-# Solution: Using for i loop and for j loop to solve this problem
+# Solution: Using for loop and n=int(input()) to solve this problem
 
 n=int(input()) # 3
 
