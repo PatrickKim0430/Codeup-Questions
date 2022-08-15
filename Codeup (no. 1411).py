@@ -1,3 +1,9 @@
+# Programmer:  Patrick Junhee Kim 
+# Date: 2022/8/15
+# Problem: Codeup no. 1411, A missing card
+https://codeup.kr/problem.php?id=1411
+# Solution: Using for loop and list to solve this problem
+
 n = int(input())
 a = []
 b = []
